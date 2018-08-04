@@ -1,0 +1,46 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.title_container {
+    text-align: center; 
+
+}
+#datePickerContainer {
+    text-align: center; 
+}
+#datePickerDiv {
+    display: inline-block;
+    margin: 0 auto; 
+}
+#radioset {
+    margin-top: 20px;
+}
+.schedule-title{
+    text-align: center;
+}
+.schedule-table{
+    display: inline;
+}
+.schedule-table td{
+    width: 15%;
+}
+.dialog-button{
+    /* margin-left: 30px; */
+    text-align: center; 
+}
+/* #dataInputDialog input{
+    margin-bottom: 15px;
+} */
+#dataInputDialog label{
+    margin-top: 15px;
+}
+#dataInputDialog input[name="birthday"]{
+    margin-bottom: 15px;
+}
+.confirmButton{
+    margin-right: 10px !important;
+}
+.clearButton{
+    margin-right: 70px !important;
+}
